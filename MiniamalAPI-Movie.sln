@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniamalAPI-Movie", "MiniamalAPI-Movie.csproj", "{AE6248C3-A0D0-400F-9CF5-90D3CDE07D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE6248C3-A0D0-400F-9CF5-90D3CDE07D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6248C3-A0D0-400F-9CF5-90D3CDE07D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6248C3-A0D0-400F-9CF5-90D3CDE07D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6248C3-A0D0-400F-9CF5-90D3CDE07D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F056543D-99FA-4BBC-87A7-22F52625F376}
+	EndGlobalSection
+EndGlobal
